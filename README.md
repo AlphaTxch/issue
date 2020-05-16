@@ -29,7 +29,7 @@ exports.run = async (client, message, args) => {
         + `\`${client.config.prefix}kick  <Discord-username>\` - Kick's a user. (You need ADMINISTRATOR Perms to run this.) \n`
         
                                   
-  `\` Ranking Permission role to shout and clear the shout and promote/demote people...** \n` 
+  `\` **Ranking Permission role to shout and clear the shout and promote/demote people...** \n` 
        
         author: {
             name: message.author.tag,
