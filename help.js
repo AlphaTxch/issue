@@ -13,7 +13,7 @@ exports.run = async (client, message, args) => {
         + `\`${client.config.prefix}accept-join <Roblox-username>\` - Accepts a user's join request.\n`
         + `\`${client.config.prefix}deny-join <Roblox-username>\` - Denies a user's join request... 
         + `\`${client.config.prefix}ban <Discord-username>\` - Ban's a user. 
-        + `\`${client.config.prefix}kick  <discord-username>\` - Kick's a user. 
+        + `\`${client.config.prefix}kick  <Discord-username>\` - Kick's a user. 
         
                                   
    **Note: You need the Ranking Permission role to shout and clear the shout and promote/demote people...** `,
